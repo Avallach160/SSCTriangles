@@ -1,0 +1,6 @@
+C:\Users\CBaird\Documents\Visual Studio 2015\Projects\cbaird ssc triangles\cbaird ssc triangles\bin\Debug\cbaird ssc triangles.exe.config
+C:\Users\CBaird\Documents\Visual Studio 2015\Projects\cbaird ssc triangles\cbaird ssc triangles\bin\Debug\cbaird ssc triangles.exe
+C:\Users\CBaird\Documents\Visual Studio 2015\Projects\cbaird ssc triangles\cbaird ssc triangles\bin\Debug\cbaird ssc triangles.pdb
+C:\Users\CBaird\Documents\Visual Studio 2015\Projects\cbaird ssc triangles\cbaird ssc triangles\obj\Debug\cbaird ssc triangles.csprojResolveAssemblyReference.cache
+C:\Users\CBaird\Documents\Visual Studio 2015\Projects\cbaird ssc triangles\cbaird ssc triangles\obj\Debug\cbaird ssc triangles.exe
+C:\Users\CBaird\Documents\Visual Studio 2015\Projects\cbaird ssc triangles\cbaird ssc triangles\obj\Debug\cbaird ssc triangles.pdb
